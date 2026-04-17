@@ -20,7 +20,7 @@ metadata:
   labels:
     project: roboshop
     tier: backend
-    component: mongodb
+    component: catalogue
 spec:
   replicas: 1
   selector:
